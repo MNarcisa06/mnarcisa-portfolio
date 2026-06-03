@@ -189,6 +189,12 @@ export const skillGroups = [
 
 export const projects = [
   {
+    title: 'Isuzu Location Inquiry',
+    description: 'A location inquiry workflow for organizing branch details, customer questions, and follow-up support.',
+    tech: ['React', 'Forms', 'Location Data'],
+    status: 'In Progress'
+  },
+  {
     title: 'AutoFlow',
     description: 'A practical automation concept for routing repetitive operations and reducing manual follow-ups.',
     tech: ['React', 'Tailwind CSS', 'Workflow Logic'],
