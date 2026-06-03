@@ -192,7 +192,8 @@ export const projects = [
     title: 'Isuzu Location Inquiry',
     description: 'A location inquiry workflow for organizing branch details, customer questions, and follow-up support.',
     tech: ['React', 'Forms', 'Location Data'],
-    status: 'In Progress'
+    status: 'In Progress',
+    url: 'https://isuzu-location-inquiry.onrender.com'
   },
   {
     title: 'AutoFlow',
